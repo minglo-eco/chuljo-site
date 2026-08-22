@@ -1,4 +1,4 @@
-# chuljo-site
+# mulddaegak-site
 
 ## CHECKPOINT.md — 매 커밋마다 갱신한다
 
