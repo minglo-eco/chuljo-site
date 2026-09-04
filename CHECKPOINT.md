@@ -12,4 +12,4 @@
 
 ## 2. 공개
 - [ ] 도메인 연결
-- [ ] 스토어 링크 연결
+- [ ] 스토어 링크 연결 — `index.html` 의 `Android · 준비 중` 배지와 `Google Play 출시 준비 중` 버튼을 `https://play.google.com/store/apps/details?id=kr.mulddaegak.app` 로 바꾼다 (대기: 구글 심사 승인) (완료: 소개 페이지의 버튼을 누르면 스토어 앱 페이지가 열린다)
